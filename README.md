@@ -28,19 +28,11 @@ Based on [PSPNet](https://github.com/hszhao/PSPNet), this repository is build fo
 
    - Evaluation code is in folder 'evaluation'.
    - Download trained models and put them in folder 'evaluation/model':
-     - icnet_cityscapes_train_30k.caffemodel:
-     
-           -[GoogleDrive](https://drive.google.com/open?id=0BzaU285cX7TCRXpXMnVIbXdfaW8) 
-           
-           -[MyCloud](https://cloud.mines-paristech.fr/index.php/s/U7HpB6oNkIOwYG4/download)
+     - icnet_cityscapes_train_30k.caffemodel: [GoogleDrive](https://drive.google.com/open?id=0BzaU285cX7TCRXpXMnVIbXdfaW8) and [abrerehet Cloud](https://cloud.mines-paristech.fr/index.php/s/U7HpB6oNkIOwYG4/download)
 
        (31M, md5: c7038630c4b6c869afaaadd811bdb539; train on trainset for 30k)
 
-     - icnet_cityscapes_trainval_90k.caffemodel: 
-     
-           - [GoogleDrive](https://drive.google.com/open?id=0BzaU285cX7TCTFVpZWJINi1Iblk) 
-           
-           -[MyCloud](https://cloud.mines-paristech.fr/index.php/s/Nmr0cgjHjCr5x2E/download)
+     - icnet_cityscapes_trainval_90k.caffemodel: [GoogleDrive](https://drive.google.com/open?id=0BzaU285cX7TCTFVpZWJINi1Iblk) and [abreheret Cloud](https://cloud.mines-paristech.fr/index.php/s/Nmr0cgjHjCr5x2E/download)
 
        (31M, md5: 4f4dd9eecd465dd8de7e4cf88ba5d5d5; train on trainvalset for 90k)
    - Modify the related paths in 'eval_all.m':
